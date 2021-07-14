@@ -1,6 +1,8 @@
 # IoT-based-Weather-Reporting-System
 This is a simple Smart weather reporting system using Raspberry Pi and suitable sensors.
-The system monitors weather parameters such as: Temperature,Humidity,Pressure, and gives alerts whenever it Rains.
+The system monitors and reports weather parameters such as: Temperature,Humidity,Pressure, and gives alerts whenever it Rains.
+
+In this projects we have used **ThingSpeak** platform for matlab analysis and **IFTTT** service to send alerts and notification.
 
 Components Used in this Project :
 
