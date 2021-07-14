@@ -12,4 +12,4 @@ Components Used in this Project :
 4. Rain Sensor 
 
 
-<img src="https://github.com/Rashmika-B/IoT-based-Weather-Reporting-System/blob/main/RaspberryPi%20Setup/Capture.JPG" width="550" height="500">
+<img src="https://github.com/Rashmika-B/IoT-based-Weather-Reporting-System/blob/main/RaspberryPi%20Setup/Capture.JPG" width="600" height="500">
