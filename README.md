@@ -11,4 +11,5 @@ Components Used in this Project :
 3. BMP 180 Barometric Pressure Sensor
 4. Rain Sensor 
 
-![Test Image 4](https://github.com/Rashmika-B/IoT-based-Weather-Reporting-System/blob/main/RaspberryPi%20Setup/Mini.jpg)
+
+<img src="https://github.com/Rashmika-B/IoT-based-Weather-Reporting-System/blob/main/RaspberryPi%20Setup/Mini.jpg" width="400" height="790">
