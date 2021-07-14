@@ -8,5 +8,3 @@ Components Used in this Project :
 2. DH11 Temperature Sensor
 3. BMP 180 Barometric Pressure Sensor
 4. Rain Sensor 
-
-![alt text](https://drive.google.com/file/d/1scw_EEw5i4Q0ePIHqruzUgOFcAJBK9v_/view?usp=sharing)
