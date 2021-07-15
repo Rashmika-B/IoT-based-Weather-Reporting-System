@@ -1,15 +1,17 @@
-# IoT-based-Weather-Reporting-System
-This is a simple Smart weather reporting system using Raspberry Pi and suitable sensors.
-The system monitors and reports weather parameters such as: Temperature,Humidity,Pressure, and gives alerts whenever it Rains.
+# IoT based Weather Reporting System
 
-In this projects we have used **ThingSpeak** platform for matlab analysis and **IFTTT** service to send alerts and notification.
+This is a simple Smart Weather Reporting system using **Raspberry Pi 4B+** and weather-related **sensors**. The system monitors and reports the weather parameters such as: Temperature,Humidity,Pressure, and gives alerts whenever it rains. We have also used [ThingSpeak Cloud](https://thingspeak.com/) platform for data collection and performed advanced data analysis using MATLAB and the [IFTTT](https://ifttt.com/) service to send alerts and notification.
 
-Components Used in this Project :
+## Installation
 
-1. Raspberry Pi 4B+
-2. DH11 Temperature Sensor
-3. BMP 180 Barometric Pressure Sensor
-4. Rain Sensor 
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary packages for Raspberry Pi.
 
-
+```bash
+pip install requirements.txt
+```
+## Sensors
+1. DHT11 Temperature Sensor
+2. BMP180 Barometric Pressure Sensor
+3. YL-83 Rain Sensor 
+## Hardware Setup
 <img src="https://github.com/Rashmika-B/IoT-based-Weather-Reporting-System/blob/main/RaspberryPi%20Setup/Capture.JPG" width="600" height="500">
