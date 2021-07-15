@@ -1,0 +1,6 @@
+1. smbus
+2. BMP180 (link to the package [HERE]())
+3. To enable I2C in Raspberry Pi, the following must be done: 
+    -->1 Click the Raspberry icon (Menu) on the top-left corner of the Pi page 
+    -->2 Go to Preferences->Raspberry Pi Configuration->Interface->I2C->Enable 
+4. To check connections of BMP180, Go To terminal-> **i2cdetect -y 1**
