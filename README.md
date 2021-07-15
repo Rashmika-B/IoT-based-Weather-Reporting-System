@@ -4,14 +4,14 @@ This is a simple Smart Weather Reporting system using **Raspberry Pi 4B+** and w
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary packages for Raspberry Pi.
+Use the package manager [sudo apt install](https://www.raspberrypi.org/documentation/) to install the necessary packages for Raspberry Pi.
 
 ```bash
-pip install requirements.txt
+sudo apt-get install python-smbus 
 ```
 ## Sensors
 1. DHT11 Temperature Sensor
 2. BMP180 Barometric Pressure Sensor
 3. YL-83 Rain Sensor 
 ## Hardware Setup
-<img src="https://github.com/Rashmika-B/IoT-based-Weather-Reporting-System/blob/main/RaspberryPi%20Setup/Capture.JPG" width="600" height="500">
+<img src="https://github.com/Rashmika-B/IoT-based-Weather-Reporting-System/blob/main/Code%20Snapshots/RaspberryPi%20Setup/Capture.JPG" width="600" height="500">
